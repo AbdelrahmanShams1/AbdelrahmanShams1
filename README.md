@@ -1,6 +1,7 @@
 <div align="center">
 
-# <span style="font-size: 48px; color: #1E90FF; text-shadow: 2px 2px 4px #000;">Hi 👋, I’m Abdelrahman Shams Eldin</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="animation: wave 1.5s infinite;" />
+# <span style="font-size: 48px; color: #1E90FF; text-shadow: 2px 2px 4px #000;">Hi 👋, I’m Abdelrahman Shams Eldin</span> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="animation: wave 1.5s infinite;" />
 
 ## <span style="font-size: 36px; background: linear-gradient(45deg, #4A90E2, #50C878, #FF6B6B, #4A90E2); background-size: 400% 400%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 10s ease infinite; text-shadow: 1px 1px 3px #000;">🚀 MERN Stack & Full-Stack Developer</span> 
 
@@ -14,16 +15,18 @@
 
 </div>
 
-### 🌍 About Me
-Hi, I'm **Abdelrahman Shams Eldin**, a MERN Stack Full-Stack Developer and Computer Science student at Menoufia University 🇪🇬. I specialize in building responsive, scalable, and user-friendly web applications using MongoDB, Express.js, React, and Node.js. I’m passionate about creating impactful web solutions and contributing to innovative projects.
+---
 
-### 🚀 Tech Stack
+### 🌍 About Me
+Hi, I'm **Abdelrahman Shams Eldin**, a MERN Stack Full-Stack Developer and Computer Science student at Menoufia University 🇪🇬. I specialize in building **responsive, scalable, and user-friendly web applications**. Passionate about learning new technologies and contributing to innovative projects.
+
+---
+
+### 💻 Skills & Technologies
 
 <div align="center" style="animation: pulse 3s infinite;">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,firebase,git,vs,postman" alt="Tech Stack" />
 </div>
-
-### 💻 Skills & Technologies
 
 | Category             | Technologies                                                                                                   |
 |----------------------|----------------------------------------------------------------------------------------------------------------|
@@ -33,12 +36,33 @@ Hi, I'm **Abdelrahman Shams Eldin**, a MERN Stack Full-Stack Developer and Compu
 | **Databases**        | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 | **Tools & DevOps**   | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
+---
+
+### 🏆 Projects & Live Demos
+
+| Project | Description | Tech Stack | Live Demo | GitHub |
+|---------|-------------|-----------|-----------|--------|
+| Nafany Services Platform | Full-stack platform connecting 50+ service providers with clients | React, Tailwind, Firebase | [Preview](#) | [Repo](#) |
+| Menoufia University Portal | Dynamic dashboards and multi-role content | React, Zustand, i18next | [Preview](#) | [Repo](#) |
+| Quran Competition App | Gamified Ramadan app engaging 200+ users | React, Firebase | [Preview](#) | [Repo](#) |
+| CSE Projects Showcase | Searchable, categorized platform for 30+ projects | React, Tailwind | [Preview](#) | [Repo](#) |
+
+---
+
+### 📚 Courses & Certifications
+- Web Development Using .NET – DEPI Institute (Jun 2024 – Dec 2024)  
+- Front-End Development with Angular – ITI Winter Bootcamp (Jan 2025 – Feb 2025)  
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center" style="animation: pulse 4s infinite;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanShams1&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanShams1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+---
 
 ### 📫 Connect with Me
 
